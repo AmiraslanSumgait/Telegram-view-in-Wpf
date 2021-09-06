@@ -1,0 +1,15 @@
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\bin\Debug\Telegram View.exe.config
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\bin\Debug\Telegram View.exe
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\bin\Debug\Telegram View.pdb
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.csprojAssemblyReference.cache
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\MainWindow.g.cs
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\App.g.cs
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View_MarkupCompile.cache
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View_MarkupCompile.lref
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\MainWindow.baml
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.g.resources
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram_View.Properties.Resources.resources
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.csproj.GenerateResource.cache
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.csproj.CoreCompileInputs.cache
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.exe
+C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.pdb
