@@ -12,24 +12,109 @@
             </ColumnDefinition>
             <ColumnDefinition Width="3*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        
-
-        <Grid Background="Aqua">
+        <Grid Background="White">
             <Grid.RowDefinitions>
                 <RowDefinition Height="1*"  ></RowDefinition>
                 <RowDefinition Height="8*"></RowDefinition>
             </Grid.RowDefinitions>
-            <TextBox></TextBox>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="7*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image  Grid.Column="0"  Width="30" Height="30" Source="Images/icons8-menu-24.png"  ></Image>
+                <TextBox FontSize="15"  TextAlignment="Left"  VerticalContentAlignment="Center" Grid.Column="1"></TextBox>
+
+            </Grid>
+            <ListView Grid.Row="1" Background="LightSkyBlue">
+                <StackPanel Orientation="Horizontal" Height="55"  Margin="0,1,0,0">
+                    <Image Source="Images/user.png" Width="20" Height="20" Margin="10,0,0,0"/>
+                    <StackPanel Width="120" Orientation="Vertical" Margin="10,10,0,5">
+                        <TextBlock> <Bold>Nabi Nabili</Bold></TextBlock>
+                        <TextBlock>Yaxsi xeber eliyecem</TextBlock>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="55"  Margin="0,1,0,0">
+                    <Image Source="Images/user.png" Width="20" Height="20" Margin="10,0,0,0"/>
+                    <StackPanel Width="120" Orientation="Vertical" Margin="10,10,0,5">
+                        <TextBlock> <Bold>Kanan Idayatov</Bold></TextBlock>
+                        <TextBlock>sabahin xeyr yetm</TextBlock>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="55"  Margin="0,1,0,0">
+                    <Image Source="Images/user.png" Width="20" Height="20" Margin="10,0,0,0"/>
+                    <StackPanel Width="120" Orientation="Vertical" Margin="10,10,0,5">
+                        <TextBlock> <Bold>Raul Qasimov</Bold></TextBlock>
+                        <TextBlock>Saat 5-de</TextBlock>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="55"  Margin="0,1,0,0">
+                    <Image Source="Images/user.png" Width="20" Height="20" Margin="10,0,0,0"/>
+                    <StackPanel Width="163" Orientation="Vertical" Margin="10,10,0,5">
+                        <TextBlock> <Bold>Ayxan</Bold></TextBlock>
+                        <TextBlock>Gelmek fikrin yoxdu deyen</TextBlock>
+
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="55"  Margin="0,1,0,0">
+                    <Image Source="Images/user.png" Width="20" Height="20" Margin="10,0,0,0"/>
+                    <StackPanel Width="163" Orientation="Vertical" Margin="10,10,0,5">
+                        <TextBlock> <Bold>Hormat Hamidov</Bold></TextBlock>
+                        <TextBlock>Eliyecem ele sen deyeni</TextBlock>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="55"  Margin="0,1,0,0">
+                    <Image Source="Images/user.png" Width="20" Height="20" Margin="10,0,0,0"/>
+                    <StackPanel Width="163" Orientation="Vertical" Margin="10,10,0,5">
+                        <TextBlock> <Bold>Burhan</Bold></TextBlock>
+                        <TextBlock>Yaxsi yetm</TextBlock>
+                    </StackPanel>
+                </StackPanel>
+
+            </ListView>
+            <Canvas >
+                <Label Canvas.Right="10" Width="40" Height="30" Canvas.Left="250" Canvas.Top="60">
+                    <Bold>10:00</Bold>
+                </Label>
+                <Label Canvas.Right="10" Width="40" Height="30" Canvas.Left="250" Canvas.Top="120">
+                    <Bold>23:32</Bold>
+                </Label>
+                <Label Canvas.Right="10" Width="40" Height="30" Canvas.Left="250" Canvas.Top="180">
+                    <Bold>15:30</Bold>
+                </Label>
+                <Label Canvas.Right="10" Width="40" Height="30" Canvas.Left="250" Canvas.Top="235">
+                    <Bold>09:40</Bold>
+                </Label>
+                <Label Canvas.Right="10" Width="40" Height="30" Canvas.Left="250" Canvas.Top="295">
+                    <Bold>09:40</Bold>
+                </Label>
+                <Label Canvas.Right="10" Width="40" Height="30" Canvas.Left="250" Canvas.Top="355">
+                    <Bold>14:40</Bold>
+                </Label>
+
+            </Canvas>
         </Grid>
-        <Grid Background="red" Grid.Column="1">
+        <Grid Background="White" Grid.Column="2">
+
             <Grid.RowDefinitions>
                 <RowDefinition Height="1*"  ></RowDefinition>
                 <RowDefinition Height="7*"></RowDefinition>
                 <RowDefinition Height="1*"></RowDefinition>
-                
             </Grid.RowDefinitions>
-            <TextBox Grid.Row="2"></TextBox>
-            <Grid Background="Black"></Grid>
+            <Image RenderOptions.BitmapScalingMode="Fant" Stretch="Fill" Source="Images/tgChatview.png" Grid.Row="1" Margin="1,0,0,0" />
+            <TextBox Grid.Row="2" FontSize="15" Padding="28,3,10,3" TextAlignment="Left"  VerticalContentAlignment="Center"></TextBox>
+            <Grid Background="White">
+                <Canvas>
+                    <TextBlock FontSize="15" Height="25" > <Bold>Hormat Hamidov</Bold></TextBlock>
+                    <TextBlock  FontSize="15" Height="25" Foreground="DeepSkyBlue" Canvas.Top="22" > <Bold>Online</Bold></TextBlock>
+                    <Image Source="Images/search.png" Canvas.Left="398" Canvas.Top="7"></Image>
+                    <Image Source="Images/verticalMenu.png" Canvas.Left="438" Height="37" Canvas.Top="7"/>
+                    <Image Source="Images/microphone.png" Canvas.Left="438" Height="27" Canvas.Bottom="40" Canvas.Top="383"/>
+                    <Image Source="Images/happy.png" Canvas.Left="398" Height="27" Canvas.Bottom="40" Canvas.Top="383"/>
+                    <Image Source="Images/happy.png" Canvas.Left="398" Height="27" Canvas.Bottom="40" Canvas.Top="383"/>
+                    <Image Source="Images/attach.png" Height="27" Canvas.Bottom="40" Canvas.Top="383" Canvas.Left="3"/>
+                </Canvas>
+            </Grid>
         </Grid>
     </Grid>
 </Window>

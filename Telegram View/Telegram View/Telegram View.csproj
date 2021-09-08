@@ -94,5 +94,26 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icons8-menu-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\tgUsername.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\tgChatview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\search.png" />
+    <Resource Include="Images\verticalMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\attach.png" />
+    <Resource Include="Images\happy.png" />
+    <Resource Include="Images\microphone.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

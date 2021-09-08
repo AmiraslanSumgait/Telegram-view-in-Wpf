@@ -13,3 +13,18 @@ C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram V
 C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.csproj.CoreCompileInputs.cache
 C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.exe
 C:\Users\Eliy_lw44\source\repos\Telegram View\Telegram View\obj\Debug\Telegram View.pdb
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\bin\Debug\Telegram View.exe.config
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\bin\Debug\Telegram View.exe
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\bin\Debug\Telegram View.pdb
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\MainWindow.g.cs
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\App.g.cs
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View_MarkupCompile.cache
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View_MarkupCompile.lref
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\MainWindow.baml
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View.g.resources
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram_View.Properties.Resources.resources
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View.csproj.GenerateResource.cache
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View.exe
+C:\Users\Amiraslan\Source\Repos\Telegram-view-in-Wpf\Telegram View\Telegram View\obj\Debug\Telegram View.pdb
