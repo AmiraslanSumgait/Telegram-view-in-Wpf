@@ -23,7 +23,8 @@
                     <ColumnDefinition Width="7*"></ColumnDefinition>
                 </Grid.ColumnDefinitions>
                 <Image  Grid.Column="0"  Width="30" Height="30" Source="Images/icons8-menu-24.png"  ></Image>
-                <TextBox FontSize="15"  TextAlignment="Left"  VerticalContentAlignment="Center" Grid.Column="1"></TextBox>
+                <TextBox Name="userInput" LostFocus="userInput_LostFocus" FontSize="15"  TextAlignment="Left"  VerticalContentAlignment="Center" Grid.Column="1"></TextBox>
+                <TextBox Name="watermarkedTxt" GotFocus="watermarkedTxt_GotFocus" Text="Search" FontSize="15"  TextAlignment="Left"  VerticalContentAlignment="Center" Grid.Column="1"></TextBox>
 
             </Grid>
             <ListView Grid.Row="1" Background="LightSkyBlue">

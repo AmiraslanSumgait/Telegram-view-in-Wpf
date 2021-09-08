@@ -24,5 +24,21 @@ namespace Telegram_View
         {
             InitializeComponent();
         }
+
+        private void watermarkedTxt_GotFocus(object sender, RoutedEventArgs e)
+        {
+            watermarkedTxt.Visibility = Visibility.Collapsed;
+            userInput.Visibility = Visibility.Visible;
+            userInput.Focus();
+        }
+
+        private void userInput_LostFocus(object sender, RoutedEventArgs e)
+        {
+            if (string.IsNullOrEmpty(userInput.Text))
+            {
+                userInput.Visibility = Visibility.Collapsed;
+                watermarkedTxt.Visibility = Visibility.Visible;
+            }
+        }
     }
 }
